@@ -1,0 +1,5 @@
+{
+  "name": "CPS Test",
+  "description": "A web application to measure a user's clicks per second (CPS) in a timed test. The app features a clean, modern interface with an interactive clicking area, real-time counters for clicks and time, and calculates the final CPS score.",
+  "requestFramePermissions": []
+}
